@@ -1,0 +1,8 @@
+# Flask is the framework we are using tp create the Python project API
+Flask==3.0.3
+# We use Flask-RESTful for quickly building the 
+Flask-RESTful==0.3.10
+# bcrypt for securely hashing the password
+bcrypt==3.2.0
+# Python driver for mongoDB
+pymongo==4.7.3
