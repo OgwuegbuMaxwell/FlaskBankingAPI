@@ -77,8 +77,5 @@ Start the service using Docker Compose:
 Manages loans for users, including updating debt and balances.
 
 
-**Project Timeline**
 
-**Date Started:** June 25, 2024
-**Date Completed:** June 26, 2024
 
